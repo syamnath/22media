@@ -1,0 +1,88 @@
+body {
+	background: #f7f3e8;
+}
+
+p {
+	color: #555;
+}
+.intro-header {
+	margin-bottom: 20px;
+}
+.main_content .whiteGr-box h2 {
+  color: #8d8e8f;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.main_content .whiteGr-box h2 a {
+  text-decoration: none;
+  font-size: 0.8em;
+}
+.main_content a, .custom_sidebar a {
+	color: #ccbd9a;
+}
+
+.whiteGr-box  {
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0px 3px 2px #dad7cf;
+    border: 1px solid #e4dfd1;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.whiteGr-box h2 {
+	color: #8d8e8f;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.whiteGr-box h2.header a {
+	font-size: 0.7em;
+	text-decoration: none;
+}
+
+.whiteGr-box h2.header a  i {
+	color: #666;
+	margin-left: 5px;
+}
+.whiteGr-box table h2 {
+	font-size: 1.5em;
+} 
+.main_content .whiteGr-box table td  {
+  padding: 10px 30px;
+}
+
+.main_content .whiteGr-box table td h3 {
+	font-size: 1em;
+	font-weight: normal;
+}
+
+.main_content .whiteGr-box table tr:nth-child(even) {
+	background: #f2f2f2;
+}
+
+.custom_sidebar .whiteGr-box  h2 {
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 10px;
+
+}
+ul.nostyles {
+	list-style: none;
+	padding-left: 0;
+	line-height: 24px;
+}
+ul.nostyles a {
+text-decoration: none;
+}
+
+ul.nostyles a:hover {
+	color: lightblue;
+}
+
+ul.tick-style i {
+  border: 3px solid green;
+  color: green;
+  border-radius: 50%;
+  font-size: 0.8em;
+}
