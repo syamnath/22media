@@ -20,6 +20,11 @@ p {
 }
 .main_content a, .custom_sidebar a {
 	color: #ccbd9a;
+	cursor: pointer;
+}
+
+.main_content a:hover, .custom_sidebar a:hover {
+	color: lightblue;
 }
 
 .whiteGr-box  {
@@ -85,4 +90,13 @@ ul.tick-style i {
   color: green;
   border-radius: 50%;
   font-size: 0.8em;
+}
+.membership_table {
+	margin-top: 20px;
+}
+
+.membership_table td {
+	border-top: 0 !important;
+	/*border: 1px solid red;*/
+	color: #ccbd9a;
 }
